@@ -8,7 +8,7 @@ This project uses a RandomForest classifier to predict survival on the Titanic. 
 
 The dataset was acquired from [Kaggle](https://www.kaggle.com/competitions/titanic/overview).
 
-**Data Cleaning & Preprocessing**: Handling missing values, dropping irrelevant columns, and feature engineering, which included grouping ages into categories, assigning numerical values to categorical data, and extracting more important information.
+**Data Cleaning & Preprocessing**: Handling missing values, dropping irrelevant columns, and feature engineering.
 
 **Data Visualization**: Used matplotlib and seaborn for visualizing data distributions and relations between different features.
 
