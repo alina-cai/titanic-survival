@@ -2,7 +2,7 @@
 
 This project uses a RandomForest classifier to predict survival on the Titanic. It is based on a binary classification problem where the goal was to predict whether a passenger survived the Titanic disaster or not, based on various personal attributes and information.
 
-## The final accuracy obtained was 81.46%.**
+## The final accuracy obtained was 81.46%.
 
 ### Main Steps Involved
 
